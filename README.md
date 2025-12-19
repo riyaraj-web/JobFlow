@@ -6,8 +6,8 @@ A modern web application for streamlining job application tracking and managemen
 
 JobFlow is a comprehensive job application tracking system that helps job seekers organize and manage their job search process. Categorize roles by type (Full-time, Part-time, Contract, etc.) and keep track of all applications in one centralized platform.
 
+<img width="1837" height="871" alt="{F29C0673-E5ED-45CE-B2B8-89EDBA790C3F}" src="https://github.com/user-attachments/assets/76aa8556-0484-4036-8763-899399a651d2" />
 
-<img width="1809" height="864" alt="{8234F85F-5003-49F2-B117-BCA976484EAD}" src="https://github.com/user-attachments/assets/e5b88bcb-5a49-47de-aa3c-0953a2d1dcd3" />
 
 
 ## Features
